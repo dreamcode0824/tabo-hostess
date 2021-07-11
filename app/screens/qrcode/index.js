@@ -1,0 +1,1 @@
+export { QrcodeScanners } from './qrCode'
